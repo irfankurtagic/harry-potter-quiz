@@ -22,5 +22,133 @@
     "choice3": "Sneakoscope",
     "choice4": "Portkey",
     "answer": 1
+  },
+  {
+    "question": "Which of the following Hogwarts houses values traits such as bravery, courage, chivalry, and daring?",
+    "choice1": "Ravenclaw",
+    "choice2": "Hufflepuff",
+    "choice3": "Gryffindor",
+    "choice4": "Slytherin",
+    "answer": 3
+  },
+  {
+    "question": "Which magical creature is known for its ability to transform into a person's worst fear?",
+    "choice1": "Acromantula",
+    "choice2": "Dementor",
+    "choice3": "Thestral",
+    "choice4": "Boggart",
+    "answer": 4
+  },
+  {
+    "question": "What is the primary ingredient in Polyjuice Potion that allows the drinker to temporarily assume the physical appearance of someone else?",
+    "choice1": "Boomslang skin",
+    "choice2": "Mandrake root",
+    "choice3": "Lacewing flies",
+    "choice4": "Bicorn horn",
+    "answer": 1
+  },
+  {
+    "question": "In \"Harry Potter and the Half-Blood Prince,\" what is the significance of the locket that Dumbledore and Harry retrieve from the cave?",
+    "choice1": "It is the Philosopher's Stone",
+    "choice2": "It is the Resurrection Stone",
+    "choice3": "It is a Portkey",
+    "choice4": "It contains a Horcrux",
+    "answer": 4
+  },
+  {
+    "question": "What is the name of the mysterious and magical object that becomes the central focus of the trio's quest to defeat Voldemort?",
+    "choice1": "The Resurrection Stone",
+    "choice2": "The Elder Wand",
+    "choice3": "The Philosopher's Stone",
+    "choice4": "The Deathly Hallows",
+    "answer": 4
+  },
+  {
+    "question": "What is the significance of the \"Mirror of Erised\" and what does it show to those who look into it?",
+    "choice1": "It shows the future, revealing the destiny of the person",
+    "choice2": "It reflects the deepest desires of the heart",
+    "choice3": "It reveals hidden truths about the person's past",
+    "choice4": "It shows a distorted version of reality",
+    "answer": 2
+  },
+  {
+    "question": "What is the prophecy concerning Harry and Voldemort that is revealed in the Department of Mysteries?",
+    "choice1": "Neither can live while the other survives",
+    "choice2": "They are destined to be eternal enemies",
+    "choice3": "They are long-lost brothers",
+    "choice4": "Harry is the true heir of Slytherin",
+    "answer": 1
+  },
+  {
+    "question": "What is the Unforgivable Curse that causes intense pain to the victim without causing any physical harm?",
+    "choice1": "Avada Kedavra",
+    "choice2": "Imperius Curse",
+    "choice3": "Cruciatus Curse",
+    "choice4": "Sectumsempra",
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the magical object that Dumbledore uses to retrieve and view memories?",
+    "choice1": "Pensieve",
+    "choice2": "Deluminator",
+    "choice3": "Remembrall",
+    "choice4": "Time-Turner",
+    "answer": 1
+  },
+  {
+    "question": "In \"Harry Potter and the Order of the Phoenix,\" what is the prophecy that is revealed in the Hall of Prophecy at the Department of Mysteries?",
+    "choice1": "The one with the power to vanquish the Dark Lord approaches...",
+    "choice2": "The chosen one will defeat Voldemort using the Elder Wand...",
+    "choice3": "The Ministry of Magic will fall unless Voldemort is defeated...",
+    "choice4": "The true heir of Slytherin will rise to power...",
+    "answer": 1
+  },
+  {
+    "question": "The real identity of the Half-Blood Prince?",
+    "choice1": "Horace Slughorn",
+    "choice2": "Tom Riddle",
+    "choice3": "Remus Lupin",
+    "choice4": "Severus Snape",
+    "answer": 4
+  },
+  {
+    "question": "Who is named Minister of Magic after the Battle of Hogwarts?",
+    "choice1": "Rufus Scrimgeour",
+    "choice2": "Cornelius Fudge ",
+    "choice3": "Hermione Granger",
+    "choice4": "Kingsley Shaklebolt",
+    "answer": 4
+  },
+  {
+    "question": "What is the name of the magical creature that Hagrid introduces to the Care of Magical Creatures class in \"Harry Potter and the Prisoner of Azkaban?\"",
+    "choice1": "Acromantula",
+    "choice2": "Hippogriff",
+    "choice3": "Thestral",
+    "choice4": "Blast-Ended Skrewt",
+    "answer": 4
+  },
+  {
+    "question": "What is the name of the spell used to summon objects to the caster's location?",
+    "choice1": "Accio",
+    "choice2": "Expelliarmus",
+    "choice3": "Protego",
+    "choice4": "Stupefy",
+    "answer": 1
+  },
+  {
+    "question": "What is the incantation for openning the Marauder's Map?",
+    "choice1": "Mischief managed",
+    "choice2": "Lumos",
+    "choice3": "I solemnly swear that I am up to no good",
+    "choice4": "Expecto Patronum",
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the village near Hogwarts where students often visit to buy supplies and enjoy some leisure time?",
+    "choice1": "Godric's Hollow",
+    "choice2": "Hogsmeade",
+    "choice3": "Diagon Alley",
+    "choice4": "Ottery St. Catchpole",
+    "answer": 2
   }
 ]
