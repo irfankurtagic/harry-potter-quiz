@@ -1,6 +1,6 @@
 [
   {
-    "question": "In \"Harry Potter and the Goblet of Fire,\" who is revealed to be the true identity of Mad-Eye Moody?",
+    "question": "In Goblet of Fire, who is revealed to be the true identity of Mad-Eye Moody?",
     "choice1": "Barty Crouch Jr.",
     "choice2": "Sirius Black",
     "choice3": "Peter Pettigrew",
@@ -40,7 +40,7 @@
     "answer": 1
   },
   {
-    "question": "In \"Harry Potter and the Half-Blood Prince,\" what is the significance of the locket that Dumbledore and Harry retrieve from the cave?",
+    "question": "In Half-Blood Prince, what is the significance of the locket that Dumbledore and Harry retrieve from the cave?",
     "choice1": "It is the Philosopher's Stone",
     "choice2": "It contains the Resurrection Stone",
     "choice3": "It is a Portkey",
@@ -88,7 +88,7 @@
     "answer": 1
   },
   {
-    "question": "In \"Harry Potter and the Order of the Phoenix,\" what is the prophecy that is revealed in the Hall of Prophecy at the Department of Mysteries?",
+    "question": "In Order of the Phoenix, what is the prophecy that is revealed in the Hall of Prophecy at the Department of Mysteries?",
     "choice1": "The one with the power to vanquish the Dark Lord approaches...",
     "choice2": "The chosen one will defeat Voldemort using the Elder Wand...",
     "choice3": "The Ministry of Magic will fall unless Voldemort is defeated...",
@@ -112,7 +112,7 @@
     "answer": 4
   },
   {
-    "question": "What is the name of the magical creature that Hagrid introduces to the Care of Magical Creatures class in \"Harry Potter and the Prisoner of Azkaban?\"",
+    "question": "What is the name of the magical creature that Hagrid introduces to the Care of Magical Creatures class in Prisoner of Azkaban?",
     "choice1": "Acromantula",
     "choice2": "Hippogriff",
     "choice3": "Thestral",
@@ -270,5 +270,77 @@
     "choice3": "Designer Quidditch equipment",
     "choice4": "Personalised Quidditch kits",
     "answer": 1
+  },
+  {
+    "question": "What was the name of Argus Filch's cat?",
+    "choice1": "Mrs Morris",
+    "choice2": "Mrs Squishington",
+    "choice3": "Mrs Norris",
+    "choice4": "Mrs Fluffkins",
+    "answer": 3
+  },
+  {
+    "question": "What is the next line of the cruel Slytherin song, Weasley is Our King?",
+    "choice1": "'Are his arms broken in a sling?'",
+    "choice2": "'He cannot block a single ring'",
+    "choice3": "'He always misses every swing'",
+    "choice4": "'Weasley cannot save a thing...'",
+    "answer": 2
+  },
+  {
+    "question": "During Gryffindor's first match in Harry's fifth year, what happened when Luna Lovegood turned up to show her support?",
+    "choice1": "She was wearing a t-shirt with Ron's face on it",
+    "choice2": "She had painted a Gryffindor banner",
+    "choice3": "She was wearing a fully-roaring lion hat",
+    "choice4": "She was dressed in Gryffindor robes",
+    "answer": 3
+  },
+  {
+    "question": "What happened after Harry got off the Hogwarts Express at Hogsmeade in Philosopher's Stone?",
+    "choice1": "He flew a broomstick from Hogsmeade station to Hogwarts",
+    "choice2": "He and the other first-years followed McGonagall on a walk to the castle",
+    "choice3": "He followed Hagrid to the boats that were to take the first-years across the lake to Hogwarts",
+    "choice4": "He got into a carriage that appeared to be pulled by invisible horses",
+    "answer": 3
+  },
+  {
+    "question": "What did the Room of Requirement turn into for Argus Filch?",
+    "choice1": "A place to lock up unruly students",
+    "choice2": "A place with extra cleaning supplies",
+    "choice3": "A place to hide from Peeves",
+    "choice4": "A place with extra cat toys for Mrs Norris",
+    "answer": 2
+  },
+  {
+    "question": "Argus Filch held what role at Hogwarts?",
+    "choice1": "Professor",
+    "choice2": "Headmaster",
+    "choice3": "Gamekeeper",
+    "choice4": "Caretaker",
+    "answer": 4
+  },
+  {
+    "question": "When Hermione discovered that house-elves worked at Hogwarts at the start of their fourth year, what happened next?",
+    "choice1": "She immediately ran to the kitchen to see it for herself",
+    "choice2": "She broke down in tears of disbelief",
+    "choice3": "She marched up to the nearest Prefect and demanded to know if it was true",
+    "choice4": "She refused to eat another bite of the start-of-term feast",
+    "answer": 4
+  },
+  {
+    "question": "What happened when Dennis Creevey walked into the Great Hall for the first time?",
+    "choice1": "He excitedly exclaimed 'Look the Sorting Hat!'",
+    "choice2": "He ran over to hug Colin",
+    "choice3": "He gave his brother Colin a double thumbs up and mouthed that he fell in the lake",
+    "choice4": "He fainted at the sight of all the older students watching him and the other first-years walk in",
+    "answer": 3
+  },
+  {
+    "question": "What happened after Ron and Harry crashed the flying Ford Anglia into the Whomping Willow?",
+    "choice1": "They climbed out of the car and bumped straight into Dumbledore",
+    "choice2": "The car ejected them both with Hedwig and their luggage then drove off",
+    "choice3": "They managed to fly the car to the Quidditch pitch where it burst into flames",
+    "choice4": "They went and parked the car in the Forbidden Forest to try and hide it",
+    "answer": 2
   }
 ]
