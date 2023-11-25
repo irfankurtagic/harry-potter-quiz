@@ -8,7 +8,7 @@
     "answer": 1
   },
   {
-    "question": "In \"Harry Potter and the Prisoner of Azkaban,\" what magical device does Hermione use to attend multiple classes simultaneously?",
+    "question": "what magical device does Hermione uses to attend multiple classes simultaneously?",
     "choice1": "Time-Turner",
     "choice2": "Invisibility Cloak",
     "choice3": "Sneakoscope",
@@ -190,5 +190,85 @@
     "choice3": "Pomona Sprout",
     "choice4": "The Fat Friar",
     "answer": 2
+  },
+  {
+    "question": "Mrs Weasley gave Ron the same colour jumper every year, what was it?",
+    "choice1": "Orange",
+    "choice2": "Mauve",
+    "choice3": "Brown",
+    "choice4": "Maroon",
+    "answer": 4
+  },
+  {
+    "question": "Who did Hermione knit lots of hats for?",
+    "choice1": "Harry and Ron",
+    "choice2": "The Hogwarts house-elves",
+    "choice3": "The new first-years when she was a Prefect",
+    "choice4": "Her favourite teachers",
+    "answer": 2
+  },
+  {
+    "question": "Lucius Malfoy: 'Dear me, what's the use of being ______ the name of wizard if they don't even pay you well for it?'",
+    "choice1": "a blemish on",
+    "choice2": "a traitor to",
+    "choice3": "a disgrace to",
+    "choice4": "a stain on",
+    "answer": 3
+  },
+  {
+    "question": "Complete this quote from Harry's first Hallowe'en feast: '______- in the dungeons - thought you ought to know.'",
+    "choice1": "Acromantula",
+    "choice2": "Troll",
+    "choice3": "Erumpent",
+    "choice4": "Basilisk",
+    "answer": 2
+  },
+  {
+    "question": "'Well, this Hallowe'en will be my five hundredth deathday'",
+    "choice1": "Nearly Headless Nick",
+    "choice2": "Peeves",
+    "choice3": "Moaning Myrtle",
+    "choice4": "The Fat Friar",
+    "answer": 1
+  },
+  {
+    "question": "'But Winky didn't know that I was growing stronger. I was starting to fight my father's______'",
+    "choice1": "Binding Jinx",
+    "choice2": "Body-bind Curse",
+    "choice3": "Memory Charm",
+    "choice4": "Imperius Curse",
+    "answer": 4
+  },
+  {
+    "question": "Bellatrix Lestrange: '______?... Why, I have had the pleasure of meeting your parents, boy.'",
+    "choice1": "Weasley",
+    "choice2": "Longbottom",
+    "choice3": "Potter",
+    "choice4": "Diggory",
+    "answer": 2
+  },
+  {
+    "question": "In Harry's first Quidditch match, what happened after everyone realised Harry's broom was jinxed?",
+    "choice1": "Hermione set Snape's robes on fire",
+    "choice2": "Hagrid went to get Madam Hooch",
+    "choice3": "Dumbledore stopped the match",
+    "choice4": "Ron tried a counter-jinx",
+    "answer": 1
+  },
+  {
+    "question": "During Harry's first Quidditch match in his third year, what happened to cause Harry to fall from his broom?",
+    "choice1": "Draco Malfoy bumped him off",
+    "choice2": "A rogue Bludger to the head",
+    "choice3": "A Dementor pitch invasion",
+    "choice4": "The heavy rain made Harry slip",
+    "answer": 3
+  },
+  {
+    "question": "After Draco Malfoy was revealed as the new Quidditch Seeker for the Slytherin team, what did Draco reveal his father had bought the whole squad?",
+    "choice1": "Brand new Nimbus Two Thousand and Ones",
+    "choice2": "Brand new Firebolts",
+    "choice3": "Designer Quidditch equipment",
+    "choice4": "Personalised Quidditch kits",
+    "answer": 1
   }
 ]
