@@ -1,4 +1,9 @@
 :root {
+  background: linear-gradient(rgba(237, 245, 255, 0.96), rgba(237, 245, 255, 0.99)), url("/harry-potter-quiz/img/2-1.jpg") repeat center;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   background-color: #ecf5ff;
   font-size: 62.5%;
 }
@@ -140,7 +145,12 @@ input::placeholder {
 
 @media (prefers-color-scheme: dark) {
   :root {
-    background: black;
+    background: linear-gradient(rgba(0, 0, 0, 0.96), rgba(0, 0, 0, 0.99)), url("/harry-potter-quiz/img/2-1.jpg") repeat center;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: black;
   }
 
   * {

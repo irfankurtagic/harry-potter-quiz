@@ -13,7 +13,7 @@ let availableQuestions = [];
 
 let questions = [];
 
-fetch('/Harry Potter Quiz/questions.json')
+fetch('/harry-potter-quiz/questions.json')
   .then((res) => res.json())
   .then((loadedQuestions) => {
     questions = loadedQuestions.map((loadedQuestion) => {
@@ -60,7 +60,7 @@ getNewQuestion = () => {
   if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
     localStorage.setItem('mostRecentScore', score);
     // Go to the end page
-    return (window.location.href = '/Harry Potter Quiz/end.html');
+    return (window.location.href = '/harry-potter-quiz/end.html');
   }
 
   questionCounter++;
