@@ -8,14 +8,6 @@
     "answer": 1
   },
   {
-    "question": "What magical creature is known for guarding the entrance to the wizarding school of Hogwarts?",
-    "choice1": "Hippogriff",
-    "choice2": "Thestral",
-    "choice3": "Niffler",
-    "choice4": "House-elf",
-    "answer": 2
-  },
-  {
     "question": "In \"Harry Potter and the Prisoner of Azkaban,\" what magical device does Hermione use to attend multiple classes simultaneously?",
     "choice1": "Time-Turner",
     "choice2": "Invisibility Cloak",
@@ -50,7 +42,7 @@
   {
     "question": "In \"Harry Potter and the Half-Blood Prince,\" what is the significance of the locket that Dumbledore and Harry retrieve from the cave?",
     "choice1": "It is the Philosopher's Stone",
-    "choice2": "It is the Resurrection Stone",
+    "choice2": "It contains the Resurrection Stone",
     "choice3": "It is a Portkey",
     "choice4": "It contains a Horcrux",
     "answer": 4
