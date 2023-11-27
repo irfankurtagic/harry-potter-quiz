@@ -21,14 +21,14 @@ h4 {
 }
 
 h1 {
-  font-size: 44px;
+  font-size: 30px;
   color: #56a5eb;
   margin-bottom: 6rem;
   text-align: center;
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 18px;
   margin-bottom: 2rem;
 }
 
@@ -77,7 +77,7 @@ h3 {
 
 /* BUTTONS */
 .btn {
-  font-size: 19px;
+  font-size: 18px;
   padding: 1rem 0;
   width: 20rem;
   text-align: center;
