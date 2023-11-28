@@ -342,5 +342,85 @@
     "choice3": "They managed to fly the car to the Quidditch pitch where it burst into flames",
     "choice4": "They went and parked the car in the Forbidden Forest to try and hide it",
     "answer": 2
+  },
+  {
+    "question": "Which platform does the Hogwarts Express leave from every year?",
+    "choice1": "Platform ten and a quarter",
+    "choice2": "Platform eleven and three-quarters",
+    "choice3": "Platform eight and a half",
+    "choice4": "Platform nine and three-quarters",
+    "answer": 4
+  },
+  {
+    "question": "At the start of which of Harry's school year did Dementors board the Hogwarts Express?",
+    "choice1": "Third",
+    "choice2": "Fourth",
+    "choice3": "Fifth",
+    "choice4": "Sixth",
+    "answer": 1
+  },
+  {
+    "question": "Where did Harry and Ron crash land the flying Ford Anglia when they flew it to Hogwarts?",
+    "choice1": "The lake",
+    "choice2": "The Whomping Willow",
+    "choice3": "The Forbidden Forest",
+    "choice4": "The pumpkin patch",
+    "answer": 2
+  },
+  {
+    "question": "Who stopped Harry and Ron from being able to get through the barrier to platform nine and three-quarters?",
+    "choice1": "Ginny Weasley",
+    "choice2": "Percy Weasley",
+    "choice3": "Dobby",
+    "choice4": "Draco Malfoy",
+    "answer": 3
+  },
+  {
+    "question": "In Half-Blood Prince, which of these characters was not invited to Slughorn's lunch in compartment C?",
+    "choice1": "Cormac McLaggen",
+    "choice2": "Hermione Granger",
+    "choice3": "Harry Potter",
+    "choice4": "Neville Longbottom",
+    "answer": 2
+  },
+  {
+    "question": "Which Slytherin was invited to Slughorn's lunch of the Slug Club?",
+    "choice1": "Blaise Zabini",
+    "choice2": "Marcus Flint",
+    "choice3": "Pansy Parkinson",
+    "choice4": "Draco Malfoy",
+    "answer": 1
+  },
+  {
+    "question": "What plant did Neville Longbottom bring onto the Hogwarts Express that covered the compartment with Stinksap?",
+    "choice1": "Mandrake",
+    "choice2": "Venomous Tentacula",
+    "choice3": "Snargaluff",
+    "choice4": "Mimbulus mimbletonia",
+    "answer": 4
+  },
+  {
+    "question": "Which Defence Against the Darks Arts professor travelled on the Hogwarts Express in Harry's compartment?",
+    "choice1": "Quirinus Quirrell",
+    "choice2": "Alastor Moody",
+    "choice3": "Remus Lupin",
+    "choice4": "Gilderoy Lockhart",
+    "answer": 3
+  },
+  {
+    "question": "What was Luna Lovegood reading the first time Harry met her on the Hogwarts Express?",
+    "choice1": "The Quibbler",
+    "choice2": "Witch Weekly",
+    "choice3": "A History of Magic",
+    "choice4": "The Daily Prophet",
+    "answer": 1
+  },
+  {
+    "question": "Which of these treats did Harry not eat during his first journey on the Hogwarts Express?",
+    "choice1": "Chocolate Frogs",
+    "choice2": "Liquorice Wands",
+    "choice3": "Pepper Imps",
+    "choice4": "Pumpkin Pasties",
+    "answer": 3
   }
 ]
