@@ -112,7 +112,7 @@ form {
 input {
   margin-bottom: 1rem;
   width: 20rem;
-  padding: 1.5rem;
+  padding: 1rem;
   font-size: 19px;
   border: none;
   box-shadow: 0 0.1rem 1.4rem 0 rgba(86, 185, 235, 0.5);
@@ -136,7 +136,7 @@ input::placeholder {
 
 @media (prefers-color-scheme: dark) {
   :root {
-    background-color: black;
+    background-color: #141414;
     font-size: 100%;
   }
 
@@ -147,13 +147,13 @@ input::placeholder {
   /* BUTTONS */
   .btn {
     color: #56a5eb;
-    background-color: #141414;
+    background-color: #0a0a0a;
   }
 
   /* FORMS */
   input {
     color: hsla(0, 0%, 100%, 0.9);
-    background-color: black;
+    background-color: #0a0a0a;
     border: 0.1rem solid #56a5eb;
     box-shadow: none;
   }
