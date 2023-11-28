@@ -45,7 +45,7 @@ fetch('/harry-potter-quiz/questions.json')
 
 // CONSTANTS
 const CORRECT_BONUS = 10;
-const MAX_QUESTIONS = 3;
+const MAX_QUESTIONS = 7;
 
 startGame = () => {
   questionCounter = 0;
