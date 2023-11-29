@@ -422,5 +422,69 @@
     "choice3": "Pepper Imps",
     "choice4": "Pumpkin Pasties",
     "answer": 3
+  },
+  {
+    "question": "Ginny had an unflattering nickname for Fleur when she stayed at The Burrow. What was it?",
+    "choice1": "Flunky",
+    "choice2": "Influenza",
+    "choice3": "Flake",
+    "choice4": "Phlegm",
+    "answer": 4
+  },
+  {
+    "question": "Where did Bill and Fleur both work?",
+    "choice1": "The Leaky Cauldron",
+    "choice2": "The Daily Prophet",
+    "choice3": "Gringoffs",
+    "choice4": "The Ministry of Magic",
+    "answer": 3
+  },
+  {
+    "question": "What was the name of Bill and Fleur's house?",
+    "choice1": "The Beach Nook",
+    "choice2": "Shell Cottage",
+    "choice3": "Seagrass Lodge",
+    "choice4": "Driftwood House",
+    "answer": 2
+  },
+  {
+    "question": "Where did Bill and Fleur first see each other?",
+    "choice1": "The day of the third task at Hogwarts",
+    "choice2": "At Grimmauld Place for Order business",
+    "choice3": "During the Yule Ball",
+    "choice4": "At Gringotts",
+    "answer": 1
+  },
+  {
+    "question": "What was Bill and Fleur's daughter called?",
+    "choice1": "Collette",
+    "choice2": "Gabrielle",
+    "choice3": "Amelie",
+    "choice4": "Victoire",
+    "answer": 4
+  },
+  {
+    "question": "Where did Bill and Fleur get married?",
+    "choice1": "Her family home in France",
+    "choice2": "In the grounds of Hogwarts",
+    "choice3": "The Burrow",
+    "choice4": "At the Three Broomsticks",
+    "answer": 3
+  },
+  {
+    "question": "Who were the bridesmaids at Bill and Fleur's wedding?",
+    "choice1": "Ginny, Hermione and Gabrielle",
+    "choice2": "Ginny and Gabrielle",
+    "choice3": "There were no bridesmaids",
+    "choice4": "Just Gabrielle",
+    "answer": 2
+  },
+  {
+    "question": "And which of these characters did not attend their wedding?",
+    "choice1": "Viktor Krum",
+    "choice2": "Albus Dumbledore",
+    "choice3": "Luna Lovegood",
+    "choice4": "Auntie Muriel",
+    "answer": 2
   }
 ]
