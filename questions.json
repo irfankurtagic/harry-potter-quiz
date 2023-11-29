@@ -216,7 +216,7 @@
     "answer": 3
   },
   {
-    "question": "Complete this quote from Harry's first Hallowe'en feast: '______- in the dungeons - thought you ought to know.'",
+    "question": "Complete this quote from Harry's first Hallowe'en feast: ' ______ - in the dungeons - thought you ought to know.'",
     "choice1": "Acromantula",
     "choice2": "Troll",
     "choice3": "Erumpent",
@@ -232,7 +232,7 @@
     "answer": 1
   },
   {
-    "question": "'But Winky didn't know that I was growing stronger. I was starting to fight my father's______'",
+    "question": "'But Winky didn't know that I was growing stronger. I was starting to fight my father's ______ '",
     "choice1": "Binding Jinx",
     "choice2": "Body-bind Curse",
     "choice3": "Memory Charm",
@@ -240,7 +240,7 @@
     "answer": 4
   },
   {
-    "question": "Bellatrix Lestrange: '______?... Why, I have had the pleasure of meeting your parents, boy.'",
+    "question": "Bellatrix Lestrange: ' ______ ?... Why, I have had the pleasure of meeting your parents, boy.'",
     "choice1": "Weasley",
     "choice2": "Longbottom",
     "choice3": "Potter",
@@ -486,5 +486,45 @@
     "choice3": "Luna Lovegood",
     "choice4": "Auntie Muriel",
     "answer": 2
+  },
+  {
+    "question": "Igor Karkaroff: 'I notice you have dribbled food all down the front of your robes again, ______ boy -'",
+    "choice1": "foul",
+    "choice2": "odious",
+    "choice3": "grubby",
+    "choice4": "disgusting",
+    "answer": 4
+  },
+  {
+    "question": "Peter Pettigrew: 'Kind boy ... kind master ... you won't let them do it ... I was your ______ I was a good pet",
+    "choice1": "friend",
+    "choice2": "servant",
+    "choice3": "rat",
+    "choice4": "mouse",
+    "answer": 3
+  },
+  {
+    "question": "Draco Malfoy: 'I think I'll leave it somewhere for Longbottom to collect — how about – ______?'",
+    "choice1": "in the lake",
+    "choice2": "up a tree",
+    "choice3": "under the Whomping Willow",
+    "choice4": "in the Forbidden Forest",
+    "answer": 2
+  },
+  {
+    "question": "Antonin Dolohov: 'That headcase ______ kept a whole bunch of stuff in here,'",
+    "choice1": "Hagrid",
+    "choice2": "Moody",
+    "choice3": "Dumbledore",
+    "choice4": "Flitwick",
+    "answer": 1
+  },
+  {
+    "question": "Amycus Carrow: 'She ain't answering, you ______ ! You open it! Garn! Do it, now!'",
+    "choice1": "ancient crone",
+    "choice2": "dunderhead",
+    "choice3": "blithering idiot",
+    "choice4": "old besom",
+    "answer": 4
   }
 ]
