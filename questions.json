@@ -526,5 +526,165 @@
     "choice3": "blithering idiot",
     "choice4": "old besom",
     "answer": 4
+  },
+  {
+    "question": "In which year are students selected to become Prefects?",
+    "choice1": "Their seventh year",
+    "choice2": "Their sixth year",
+    "choice3": "Their fourth year",
+    "choice4": "Their fifth year",
+    "answer": 4
+  },
+  {
+    "question": "What did Mr and Mrs Weasley give Percy as a gift for becoming a Prefect?",
+    "choice1": "A new broomstick",
+    "choice2": "An expensive quill",
+    "choice3": "An owl",
+    "choice4": "A new wand",
+    "answer": 3
+  },
+  {
+    "question": "What was there a painting of in the Prefects' bathroom?",
+    "choice1": "A portrait of the four founders of Hogwarts",
+    "choice2": "A mermaid",
+    "choice3": "A dragon",
+    "choice4": "The Hogwarts crest",
+    "answer": 2
+  },
+  {
+    "question": "Who did Harry meet when he took a bath in the Prefects' bathroom?",
+    "choice1": "The Grey Lady",
+    "choice2": "Peeves",
+    "choice3": "The Fat Friar",
+    "choice4": "Moaning Myrtle",
+    "answer": 4
+  },
+  {
+    "question": "A Prefect was Petrified by the Basilisk in Chamber of Secrets. What was their name?",
+    "choice1": "Paula Wilkins",
+    "choice2": "Prudence Pennyfeather",
+    "choice3": "Penelope Clearwater",
+    "choice4": "Poppy Green",
+    "answer": 3
+  },
+  {
+    "question": "Which of these characters was not a Prefect?",
+    "choice1": "Pansy Parkinson",
+    "choice2": "Justin Finch-Fletchley",
+    "choice3": "Hannah Abbott",
+    "choice4": "Remus Lupin",
+    "answer": 2
+  },
+  {
+    "question": "What was the password to the Prefects' bathroom?",
+    "choice1": "Pine-fresh",
+    "choice2": "Squeaky clean",
+    "choice3": "Mermaid",
+    "choice4": "Bubble bath",
+    "answer": 1
+  },
+  {
+    "question": "How many Prefects were there amongst the Weasley siblings?",
+    "choice1": "Three",
+    "choice2": "Six",
+    "choice3": "Five",
+    "choice4": "Four",
+    "answer": 4
+  },
+  {
+    "question": "Who was the male Slytherin Prefect in Harry's fifth year?",
+    "choice1": "Blaise Zabini",
+    "choice2": "Vincent Crabbe",
+    "choice3": "Draco Malfoy",
+    "choice4": "Gregory Goyle",
+    "answer": 3
+  },
+  {
+    "question": "When he was a Prefect, how many points did Percy Weasley take from Ron after catching him leaving the girls' bathroom?",
+    "choice1": "Fifteen points",
+    "choice2": "Five points",
+    "choice3": "Ten points",
+    "choice4": "Twenty points",
+    "answer": 2
+  },
+  {
+    "question": "When staying with the Weasleys during the summer before second year, what happened when Harry used Floo Powder for the first time?",
+    "choice1": "He ended up in the storeroom of Flourish and Blotts",
+    "choice2": "He arrived at the Leaky Cauldron in Diagon Alley",
+    "choice3": "He didn't go anywhere as he forgot to say a location",
+    "choice4": "He ended up at Borgin and Burkes in Knockturn Alley",
+    "answer": 4
+  },
+  {
+    "question": "After Fred, George and Ron rescued Harry from Privet Drive in Chamber of Secrets, what happened when they landed the flying Ford Anglia back at The Burrow?",
+    "choice1": "Mr Weasley greeted them and asked if the car had flown well",
+    "choice2": "Percy saw them outside and went to tell on them to Mrs Weasley",
+    "choice3": "Mrs Weasley came outside and was furious with them (except Harry)",
+    "choice4": "Ginny met them outside and helped them to sneak into the house",
+    "answer": 3
+  },
+  {
+    "question": "What happened after Uncle Vernon said 'No post on Sundays' in Philosopher's Stone?",
+    "choice1": "The milkman delivered twenty-seven Hogwarts letters along with three pints of semi-skimmed milk",
+    "choice2": "Thirty or forty Hogwarts letters came whizzing down the chimney and shot out of the fireplace",
+    "choice3": "Sixteen Hogwarts letters were dropped through the window of the downstairs loo",
+    "choice4": "Ten owls carrying ten Hogwarts letters came through the kitchen window",
+    "answer": 2
+  },
+  {
+    "question": "What happened when Fred dropped a bag of sweets in the Dursleys' living room in Goblet of Fire?",
+    "choice1": "Dudley ate a Ton-Tongue Toffee and his tongue grew to be at least a foot long",
+    "choice2": "Uncle Vernon ate one and it turned out to be a Nosebleed Nougat",
+    "choice3": "Aunt Petunia shouted at him for making a mess on her carpet",
+    "choice4": "Fred collected all the sweets before leaving",
+    "answer": 1
+  },
+  {
+    "question": "In Prisoner of Azkaban, what happened when Harry tripped over after seeing a pair of glowing eyes in Magnolia Crescent?",
+    "choice1": "His wand flew out of his hand as he flung out his arm to break his fall and the Knight Bus appeared",
+    "choice2": "He landed in a heap on the road with a broken arm and broken pair of glasses",
+    "choice3": "Sirius Black stepped out of the shadows to reveal himself",
+    "choice4": "Members of the Ministry of Magic found him (at the request of Cornelius Fudge) to fly him to Diagon Alley",
+    "answer": 1
+  },
+  {
+    "question": "When the Dark Mark was cast in the forest clearing after the Quidditch World Cup right by Harry, Ron and Hermione - what happened next?",
+    "choice1": "Mr Weasley grabbed them and used an emergency Portkey to get them back to Stoatshead Hill",
+    "choice2": "Before they could go anywhere they were grabbed by Ministry officials",
+    "choice3": "They ran as fast as they could back to the tents at the campsite to find Mr Weasley",
+    "choice4": "They were surrounded by roughly twenty wizards and narrowly avoided Stunning Spells",
+    "answer": 4
+  },
+  {
+    "question": "When staying at The Burrow before their sixth year, what happened to Hermione when she picked up and squeezed a telescope from a box of Fred and George's possessions?",
+    "choice1": "It grew to one hundred times its size so they had to leave the room",
+    "choice2": "Hermione looked through it and it showed her a map of all the stars in the sky",
+    "choice3": "It punched her with a tiny fist hidden inside and gave her a black eye",
+    "choice4": "It made an incredibly loud noise and shot sparks from the end of it",
+    "answer": 3
+  },
+  {
+    "question": "During Order of the Phoenix, what happened when a Dementor got hold of Dudley's wrists and lowered its head to kiss him?",
+    "choice1": "Dudley was subjected to the Dementor's Kiss",
+    "choice2": "Harry commanded the Patronus he had already conjured to charge the Dementor",
+    "choice3": "Members of the Order of the Phoenix arrived and cast multiple Patronuses at the Dementors",
+    "choice4": "Mrs Figg arrived and screamed at Harry to cast a Patronus",
+    "answer": 2
+  },
+  {
+    "question": "At Bill and Fleur's wedding, what happened immediately after the tufty-haired wizard pronounced them 'bonded for life' and showered the couple with silver stars?",
+    "choice1": "The golden balloons overhead burst and tiny birds of paradise and golden bells flew out",
+    "choice2": "One of Fleur's cousins performed a song as the couple walked down the aisle",
+    "choice3": "The wedding was interrupted by news that the Ministry of Magic had fallen and there was no wedding reception",
+    "choice4": "Fred and George released a load of fireworks from their shop",
+    "answer": 1
+  },
+  {
+    "question": "On Harry's seventeenth birthday, what happened when Ginny kissed Harry in her room?",
+    "choice1": "Ron burst through the door and interrupted them",
+    "choice2": "Mrs Weasley interrupted them and told them to help with Bill and Fleur's wedding preparations",
+    "choice3": "Ginny told Harry she loved him",
+    "choice4": "Harry told Ginny that it could never happen again",
+    "answer": 1
   }
 ]
