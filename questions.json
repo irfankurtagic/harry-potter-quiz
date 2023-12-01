@@ -686,5 +686,165 @@
     "choice3": "Ginny told Harry she loved him",
     "choice4": "Harry told Ginny that it could never happen again",
     "answer": 1
+  },
+  {
+    "question": "When is Harry Potter's birthday?",
+    "choice1": "25th July",
+    "choice2": "30th August",
+    "choice3": "8th August",
+    "choice4": "31st July",
+    "answer": 4
+  },
+  {
+    "question": "How many birthday cakes did Harry receive for his fourteenth birthday?",
+    "choice1": "Three",
+    "choice2": "Two",
+    "choice3": "Four",
+    "choice4": "One",
+    "answer": 3
+  },
+  {
+    "question": "What did Hagrid buy Harry as a gift for his eleventh birthday?",
+    "choice1": "A Nimbus 2000",
+    "choice2": "Hedwig",
+    "choice3": "A Mokeskin pouch",
+    "choice4": "The Monster Book of Monsters",
+    "answer": 2
+  },
+  {
+    "question": "Which birthday did Harry find out he was a wizard?",
+    "choice1": "His eleventh",
+    "choice2": "His thirteenth",
+    "choice3": "His twelfth",
+    "choice4": "His tenth",
+    "answer": 1
+  },
+  {
+    "question": "In the Philosopher's Stone book, what flavour was the birthday cake Hagrid brought for Harry when he told him he was a wizard?",
+    "choice1": "Carrot",
+    "choice2": "Victoria sponge",
+    "choice3": "Red velvet",
+    "choice4": "Chocolate",
+    "answer": 4
+  },
+  {
+    "question": "What shape was Harry's birthday cake on his seventeenth birthday?",
+    "choice1": "A Quidditch pitch",
+    "choice2": "Normal cake shape",
+    "choice3": "A Snitch",
+    "choice4": "A Firebolt",
+    "answer": 3
+  },
+  {
+    "question": "What did Hermione get Harry for his thirteenth birthday?",
+    "choice1": "A copy of A History of Magic",
+    "choice2": "A Broomstick Servicing Kit",
+    "choice3": "A homework planner",
+    "choice4": "A Pocket Sneakoscope",
+    "answer": 2
+  },
+  {
+    "question": "On Harry's first birthday, who joined the Potters for his birthday tea?",
+    "choice1": "Bathilda Bagshot",
+    "choice2": "Remus Lupin",
+    "choice3": "Albus Dumbledore",
+    "choice4": "Sirius Black",
+    "answer": 1
+  },
+  {
+    "question": "Which of these did Harry not eat on his eleventh birthday?",
+    "choice1": "Sausages",
+    "choice2": "A chocolate and raspberry ice-cream with chopped nuts",
+    "choice3": "Hamburger",
+    "choice4": "A Chocolate Frog",
+    "answer": 4
+  },
+  {
+    "question": "Who did the watch that Molly Weasley gifted Harry when he came of age originally belong to?",
+    "choice1": "James Potter",
+    "choice2": "Gideon Prewett",
+    "choice3": "Fabian Prewett",
+    "choice4": "Arthur Weasley",
+    "answer": 3
+  },
+  {
+    "question": "On which birthday was Harry so angry at Ron and Hermione he threw away the boxes of Honeydukes sweets they'd bought him?",
+    "choice1": "His Fourteenth",
+    "choice2": "His Fifteenth",
+    "choice3": "His Thirteenth",
+    "choice4": "His Sixteenth",
+    "answer": 2
+  },
+  {
+    "question": "Which building in Diagon Alley was broken into on Harry's eleventh birthday?",
+    "choice1": "Gringotts",
+    "choice2": "Florean Fortescue's Ice-Cream Parlour",
+    "choice3": "Ollivanders",
+    "choice4": "Flourish and Blotts",
+    "answer": 1
+  },
+  {
+    "question": "Which birthday did Harry refer to as 'the most wonderful birthday of his life'?",
+    "choice1": "His seventeenth",
+    "choice2": "His thirteenth",
+    "choice3": "His fifteenth",
+    "choice4": "His eleventh",
+    "answer": 4
+  },
+  {
+    "question": "What did the Dursleys give Harry on his tenth birthday?",
+    "choice1": "A deflated football",
+    "choice2": "A fifty pence piece",
+    "choice3": "A coat-hanger and a pair of Uncle Vernon's old socks",
+    "choice4": "A single pencil",
+    "answer": 3
+  },
+  {
+    "question": "Which of Harry's friends was born the day before him?",
+    "choice1": "Luna",
+    "choice2": "Neville",
+    "choice3": "Ron",
+    "choice4": "Hermione",
+    "answer": 2
+  },
+  {
+    "question": "How many birthdays did Harry spend at The Burrow?",
+    "choice1": "Two",
+    "choice2": "One",
+    "choice3": "Three",
+    "choice4": "Four",
+    "answer": 1
+  },
+  {
+    "question": "Who was the unexpected magical visitor on the day that Harry turned twelve?",
+    "choice1": "Cornelius Fudge",
+    "choice2": "Sirius Black",
+    "choice3": "Hagrid",
+    "choice4": "Dobby",
+    "answer": 4
+  },
+  {
+    "question": "Who came to dinner with the Dursleys the day that Harry turned twelve?",
+    "choice1": "Mr and Mrs Morton",
+    "choice2": "Mr and Mrs Matthews",
+    "choice3": "Mr and Mrs Mason",
+    "choice4": "Mr and Mrs Montague",
+    "answer": 3
+  },
+  {
+    "question": "In Prisoner of Azkaban, what did Sirius give Harry to make up for missing so many of his birthdays?",
+    "choice1": "A photo album with pictures of his mum and dad at school",
+    "choice2": "A Firebolt",
+    "choice3": "Twelve Grimmauld Place",
+    "choice4": "1000 Galleons",
+    "answer": 2
+  },
+  {
+    "question": "Where did Harry wake up on his eleventh birthday?",
+    "choice1": "The Hut-on-the-Rock",
+    "choice2": "The cupboard under the stairs",
+    "choice3": "The smallest bedroom at the Dursleys",
+    "choice4": "The Leaky Cauldron",
+    "answer": 1
   }
 ]
