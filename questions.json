@@ -846,5 +846,85 @@
     "choice3": "The smallest bedroom at the Dursleys",
     "choice4": "The Leaky Cauldron",
     "answer": 1
+  },
+  {
+    "question": "Which portrait of a former Hogwarts headteacher resided at Grimmauld Place?",
+    "choice1": "Armando Dippet",
+    "choice2": "Phineas Nigellus Black",
+    "choice3": "Dilys Derwent",
+    "choice4": "Albus Dumbledore",
+    "answer": 2
+  },
+  {
+    "question": "Who was the house-elf who lived at Grimmauld Place?",
+    "choice1": "Dobby",
+    "choice2": "Winky",
+    "choice3": "Kreacher",
+    "choice4": "Tuppence",
+    "answer": 3
+  },
+  {
+    "question": "Which number was the headquarters of the Order of the Phoenix located at on Grimmauld Place?",
+    "choice1": "Thirteen",
+    "choice2": "Thirty",
+    "choice3": "Two",
+    "choice4": "Twelve",
+    "answer": 4
+  },
+  {
+    "question": "Mrs Weasley said there was an infestation of what creature in the drawing room curtains?",
+    "choice1": "Bowtruckles",
+    "choice2": "Billywigs",
+    "choice3": "Glumbumbles",
+    "choice4": "Doxys",
+    "answer": 4
+  },
+  {
+    "question": "Who was the screaming woman in the portrait in the entrance hall of the Grimmauld Place?",
+    "choice1": "Sirius Black's aunt",
+    "choice2": "Sirius Black's mum",
+    "choice3": "Sirius Black's sister",
+    "choice4": "Sirius Black's grandmother",
+    "answer": 2
+  },
+  {
+    "question": "What pudding did Harry have during his first meal at Grimmauld Place?",
+    "choice1": "Sticky toffee pudding",
+    "choice2": "Treacle tart",
+    "choice3": "Rhubarb crumble and custard",
+    "choice4": "Chocolate fudge cake",
+    "answer": 3
+  },
+  {
+    "question": "Which room of the Grimmauld Place did Buckbeak stay in?",
+    "choice1": "The drawing room",
+    "choice2": "Regulus's old room",
+    "choice3": "The kitchen",
+    "choice4": "Mrs Black's room",
+    "answer": 4
+  },
+  {
+    "question": "What shape is the doorknocker on the front door of the Grimmauld Place?",
+    "choice1": "A serpent",
+    "choice2": "The Black family crest",
+    "choice3": "There was no doorknocker",
+    "choice4": "A silver 'S' to represent Slytherin",
+    "answer": 1
+  },
+  {
+    "question": "What was the name of Sirius's uncle who gave him money when he was seventeen so he could get his own place and leave Grimmauld Place?",
+    "choice1": "Augustus",
+    "choice2": "Alphard",
+    "choice3": "Alfred",
+    "choice4": "Alaric",
+    "answer": 2
+  },
+  {
+    "question": "There was a creature trapped in a writing desk in the Grimmauld Place. What was it?",
+    "choice1": "An Occamy",
+    "choice2": "A Bundimun",
+    "choice3": "A Boggart",
+    "choice4": "A Puffskein",
+    "answer": 3
   }
 ]
