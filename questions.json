@@ -926,5 +926,85 @@
     "choice3": "A Boggart",
     "choice4": "A Puffskein",
     "answer": 3
+  },
+  {
+    "question": "In Philosopher's Stone when Uncle Vernon left for work at half past eight, what happened when he drove his car along Privet Drive?",
+    "choice1": "He saw a tabby cat reading a map on the corner",
+    "choice2": "He bumped into a parked car because he was distracted by swooping owls",
+    "choice3": "He saw a dog staring at him",
+    "choice4": "He saw three women in emerald cloaks",
+    "answer": 1
+  },
+  {
+    "question": "What happened after Dudley discovered he had thirty-seven presents for his eleventh birthday which was one less than the previous year?",
+    "choice1": "He threw a tantrum and smashed all of them",
+    "choice2": "Aunt Petunia promised to buy him two more presents",
+    "choice3": "He said thank you to his parents for being so generous",
+    "choice4": "Uncle Vernon gave him money to make up the difference",
+    "answer": 2
+  },
+  {
+    "question": "What happened after Aunt Marge called Harry an ungrateful liar?",
+    "choice1": "Nothing - Harry put up with it so that Uncle Vernon would sign his Hogsmeade permission slip",
+    "choice2": "Harry dropped Aunt Petunia's trifle on Marge's head",
+    "choice3": "She inflated like a monstrous balloon and floated up to the ceiling",
+    "choice4": "Harry used a Bat-Bogey Hex on Marge",
+    "answer": 3
+  },
+  {
+    "question": "When Aunt Petunia opened the door of Privet Drive to Harry and Dudley after they had been attacked by Dementors, what happened next?",
+    "choice1": "Dudley yelled that Harry had cast a spell on him",
+    "choice2": "Harry immediately tried to explain what had happened",
+    "choice3": "Dudley fainted and landed face first on the floor",
+    "choice4": "Dudley vomited all over the doormat",
+    "answer": 4
+  },
+  {
+    "question": "What happened when Dudley showed his family his Smeltings school uniform?",
+    "choice1": "Aunt Petunia burst into tears and said she couldn't believe it was her Ickle Dudleykins",
+    "choice2": "Uncle Vernon shook Dudley's hand and said he was a handsome fellow",
+    "choice3": "Aunt Petunia said it would look just right once she had tailored his knickerbockers",
+    "choice4": "Harry burst out laughing and was sent to his room",
+    "answer": 1
+  },
+  {
+    "question": "Uncle Vernon referred to Dumbledore as a crackpot old fool in front of Hagrid. What happened next?",
+    "choice1": "Hagrid immediately removed Harry from the Dursley's presence without another word",
+    "choice2": "Hagrid used his pink umbrella to give Dudley a curly pig's tail",
+    "choice3": "Hagrid pretended he hadn't heard him",
+    "choice4": "Hagrid used his pink umbrella to give Uncle Vernon antlers",
+    "answer": 2
+  },
+  {
+    "question": "When Aunt Petunia cut off most of Harry's hair except his fringe, what happened next?",
+    "choice1": "The scissors mysteriously broke afterwards and she could never cut it again",
+    "choice2": "Harry had to wear a hat to school for a month",
+    "choice3": "All of it grew back overnight",
+    "choice4": "It grew back within five minutes",
+    "answer": 3
+  },
+  {
+    "question": "Uncle Vernon tried to kick Harry out of Privet Drive in Order of the Phoenix. What happened next?",
+    "choice1": "Harry left immediately and was picked up by the Order and taken to Grimmauld Place",
+    "choice2": "Dudley said Harry had saved him and had to stay",
+    "choice3": "Harry threatened to Curse them all if they didn't let him stay",
+    "choice4": "Petunia received a Howler and then said Harry was staying",
+    "answer": 4
+  },
+  {
+    "question": "When Harry left Privet Drive for the last time, what was Dudley's response after Harry said the Dursleys thought he was a waste of space?",
+    "choice1": "'I don't think you're a waste of space'",
+    "choice2": "'I'm sorry that I was so horrible to you'",
+    "choice3": "'I hope to never see you again'",
+    "choice4": "'Yeah you are... good riddance!'",
+    "answer": 1
+  },
+  {
+    "question": "What happened after Dobby dropped Aunt Petunia's pudding of whipped cream and sugared violets on the floor when Mr and Mrs Mason visited?",
+    "choice1": "The Masons left immediately in disgust",
+    "choice2": "Harry was sent to sit in the garden until they left",
+    "choice3": "Aunt Petunia produced her backup whipped cream and sugared violets she had made just in case",
+    "choice4": "Aunt Petunia dug out some ice-cream from the freezer",
+    "answer": 4
   }
 ]
