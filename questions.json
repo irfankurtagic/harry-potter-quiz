@@ -1006,5 +1006,85 @@
     "choice3": "Aunt Petunia produced her backup whipped cream and sugared violets she had made just in case",
     "choice4": "Aunt Petunia dug out some ice-cream from the freezer",
     "answer": 4
+  },
+  {
+    "question": "'You're saying it wrong... It's Wing- gar-dium Levi-o-sa, make the \"gar\" nice and long.'",
+    "choice1": "Hermione",
+    "choice2": "Neville",
+    "choice3": "Ron",
+    "choice4": "Harry",
+    "answer": 1
+  },
+  {
+    "question": "'Books! And cleverness! There are more important things - friendship and bravery'",
+    "choice1": "Luna",
+    "choice2": "Hermione",
+    "choice3": "Harry",
+    "choice4": "Ron",
+    "answer": 2
+  },
+  {
+    "question": "'There's no need to call me \"sir\", Professor.'",
+    "choice1": "Ron",
+    "choice2": "George",
+    "choice3": "Harry",
+    "choice4": "Hermione",
+    "answer": 3
+  },
+  {
+    "question": "'Wow, I wonder what it'd be like to have a difficult life?'",
+    "choice1": "Luna",
+    "choice2": "Hermione",
+    "choice3": "Ron",
+    "choice4": "Harry",
+    "answer": 4
+  },
+  {
+    "question": "'Excuse me, are you the imprint of a departed soul?'",
+    "choice1": "Ron",
+    "choice2": "Fred",
+    "choice3": "Hermione",
+    "choice4": "Harry",
+    "answer": 1
+  },
+  {
+    "question": "'Don't let it worry you... It's me. I'm extremely famous.'",
+    "choice1": "Fred",
+    "choice2": "Ron",
+    "choice3": "Luna",
+    "choice4": "Harry",
+    "answer": 2
+  },
+  {
+    "question": "'Just because you've got the emotional range of a teaspoon doesn't mean we all have'",
+    "choice1": "Neville",
+    "choice2": "Ron",
+    "choice3": "Hermione",
+    "choice4": "Harry",
+    "answer": 3
+  },
+  {
+    "question": "'I mean we should tell them to get out. We don't want any more Dobbys, do we? We can't order them to die for us'",
+    "choice1": "Hermione",
+    "choice2": "Harry",
+    "choice3": "Fred",
+    "choice4": "Ron",
+    "answer": 4
+  },
+  {
+    "question": "'Oh, of course... I forgot we'll be hunting down Voldemort in a mobile library.'",
+    "choice1": "George",
+    "choice2": "Neville",
+    "choice3": "Ron",
+    "choice4": "Hermione",
+    "answer": 3
+  },
+  {
+    "question": "'No thanks... The poor toilet's never had anything as horrible as your head down it - it might be sick.'",
+    "choice1": "Hermione",
+    "choice2": "Harry",
+    "choice3": "George",
+    "choice4": "Ron",
+    "answer": 2
   }
 ]
