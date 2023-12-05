@@ -2,12 +2,12 @@
 Small, but hopefully fun Harry Potter quiz with 100+ questions ⚡
 
 And, of course, you can play it [here](https://irfandaily.neocities.org/harry-potter-quiz).
-##
-![image](https://github.com/irfankurtagic/harry-potter-quiz/assets/72319855/e34e44c2-7c71-4f78-aca0-74608fc2f02f)
+
 
 Dark             |  Light
 :-------------------------:|:-------------------------:
-![image](https://github.com/irfankurtagic/harry-potter-quiz/assets/72319855/65277d8a-c852-4fa7-ad26-eb75bb4f57c2)  |  ![image](https://github.com/irfankurtagic/harry-potter-quiz/assets/72319855/fe2d55d6-a75c-40ad-80f6-1f98de8ff43f)
+![image](https://github.com/irfankurtagic/harry-potter-quiz/assets/72319855/e612d501-d366-4f74-b26a-c0d8afdd687c)  |  ![image](https://github.com/irfankurtagic/harry-potter-quiz/assets/72319855/565ed712-f8d0-4229-abe3-52337b63fab8)
+
 
 
 
