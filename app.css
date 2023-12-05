@@ -1,7 +1,7 @@
 :root {
   background: url(/harry-potter-quiz/hogwarts-l.png);
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: cover;
   background-position: bottom left;
   background-color: #ecf5ff;
 }
@@ -139,7 +139,7 @@ input::placeholder {
   :root {
     background: url(/harry-potter-quiz/hogwarts.png);
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
     background-position: bottom left;
     background-color: #0f0f0f;
   }
