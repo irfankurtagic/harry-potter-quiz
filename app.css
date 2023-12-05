@@ -1,4 +1,8 @@
 :root {
+  background: url(/harry-potter-quiz/hogwarts-l.png);
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: bottom left;
   background-color: #ecf5ff;
 }
 
@@ -11,10 +15,6 @@
 
 html {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-
-img {
-  filter: blur(10px);
 }
 
 h1,
