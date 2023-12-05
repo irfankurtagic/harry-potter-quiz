@@ -7,7 +7,8 @@ And, of course, you can play it [here](https://irfandaily.neocities.org/harry-po
 
 Dark             |  Light
 :-------------------------:|:-------------------------:
-![image](https://github.com/irfankurtagic/harry-potter-quiz/assets/72319855/1a4fa66b-f969-4280-b2d7-81a7ff74acfe)  |  ![image](https://github.com/irfankurtagic/harry-potter-quiz/assets/72319855/93c1d247-6146-4e8f-8441-3686ec7a82a5)
+![image](https://github.com/irfankurtagic/harry-potter-quiz/assets/72319855/65277d8a-c852-4fa7-ad26-eb75bb4f57c2)  |  ![image](https://github.com/irfankurtagic/harry-potter-quiz/assets/72319855/fe2d55d6-a75c-40ad-80f6-1f98de8ff43f)
+
 
 
 
