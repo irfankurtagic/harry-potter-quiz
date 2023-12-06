@@ -1077,7 +1077,7 @@
     "choice2": "Neville",
     "choice3": "Ron",
     "choice4": "Hermione",
-    "answer": 3
+    "answer": 4
   },
   {
     "question": "'No thanks... The poor toilet's never had anything as horrible as your head down it - it might be sick.'",
@@ -1085,6 +1085,78 @@
     "choice2": "Harry",
     "choice3": "George",
     "choice4": "Ron",
+    "answer": 1
+  },
+  {
+    "question": "In Goblet of Fire, what colour were the socks Ron gave Dobby at Christmas?",
+    "choice1": "Bottle green",
+    "choice2": "Violet",
+    "choice3": "Maroon",
+    "choice4": "Navy",
+    "answer": 2
+  },
+  {
+    "question": "What object did Harry hide in a sock and give to Lucius Malfoy?",
+    "choice1": "A copy of A History of Magic",
+    "choice2": "A Snitch",
+    "choice3": "Tom Riddle's diary",
+    "choice4": "A Dungbomb",
+    "answer": 3
+  },
+  {
+    "question": "What kind of socks did Dumbledore say he saw himself holding when he looked in the Mirror of Erised?",
+    "choice1": "Plain black",
+    "choice2": "Mauve with polka dots",
+    "choice3": "Thick and stripy",
+    "choice4": "Thick and woollen",
+    "answer": 4
+  },
+  {
+    "question": "What object that detects untrustworthy people was cushioned by a pair of knobbly mustard socks in Harry's trunk?",
+    "choice1": "Sneakoscope",
+    "choice2": "Foe-Glass",
+    "choice3": "Probity Probe",
+    "choice4": "Secrecy Sensor",
+    "answer": 1
+  },
+  {
+    "question": "Which Order of the Phoenix member was said to smell like acrid socks?",
+    "choice1": "Arthur Weasley",
+    "choice2": "Mundungus Fletcher",
+    "choice3": "Severus Snape",
+    "choice4": "Mad-Eye Moody",
+    "answer": 2
+  },
+  {
+    "question": "Dobby gave Harry a pair of mismatching socks. What pattern was on the red one?",
+    "choice1": "Dragons",
+    "choice2": "Harry's face",
+    "choice3": "Broomsticks",
+    "choice4": "Snitches",
+    "answer": 3
+  },
+  {
+    "question": "What potion did Harry keep hidden in a pair of socks?",
+    "choice1": "Polyjuice Potion",
+    "choice2": "Amortentia",
+    "choice3": "Veritaserum",
+    "choice4": "Felix Felicis",
+    "answer": 4
+  },
+  {
+    "question": "Who knitted socks - and hats - to leave out for Hogwarts house-elves?",
+    "choice1": "Hermione",
+    "choice2": "Luna",
+    "choice3": "Neville",
+    "choice4": "Hagrid",
+    "answer": 1
+  },
+  {
+    "question": "Which birthday did Harry receive a pair of Uncle Vernon's old socks?",
+    "choice1": "His twelfth birthday",
+    "choice2": "His tenth birthday",
+    "choice3": "His eleventh birthday",
+    "choice4": "His thirteenth birthday",
     "answer": 2
   }
 ]
