@@ -1158,5 +1158,85 @@
     "choice3": "His eleventh birthday",
     "choice4": "His thirteenth birthday",
     "answer": 2
+  },
+  {
+    "question": "What was the name of the village near Hogwarts?",
+    "choice1": "Godric's Hollow",
+    "choice2": "Tinworth",
+    "choice3": "Hogsmeade",
+    "choice4": "Ottery St Catchpole",
+    "answer": 3
+  },
+  {
+    "question": "What do Muggles see when they stumble upon Hogwarts?",
+    "choice1": "Nothing except the scenery of the Scottish Highlands",
+    "choice2": "They can see the whole castle",
+    "choice3": "A cliff which is too dangerous to climb",
+    "choice4": "A ruin with signs telling them to keep out",
+    "answer": 4
+  },
+  {
+    "question": "Who did James Potter hold upside down in the Hogwarts grounds?",
+    "choice1": "Severus Snape",
+    "choice2": "Peter Pettigrew",
+    "choice3": "Lily Evans",
+    "choice4": "Sirius Black",
+    "answer": 1
+  },
+  {
+    "question": "Hagrid's hut sits on the border of what part of the grounds?",
+    "choice1": "The Quidditch pitch",
+    "choice2": "The Forbidden Forest",
+    "choice3": "The lake",
+    "choice4": "The greenhouses",
+    "answer": 2
+  },
+  {
+    "question": "What lake-dwelling creature did Fred, George and Lee Jordan once tickle during a lazy summer afternoon?",
+    "choice1": "Plimpy",
+    "choice2": "Selkie",
+    "choice3": "The giant squid",
+    "choice4": "Shrake",
+    "answer": 3
+  },
+  {
+    "question": "Where was the Whomping Willow planted?",
+    "choice1": "In the Forbidden Forest",
+    "choice2": "Over the entrance to a secret passageway to Honeyduke's",
+    "choice3": "Next to greenhouse three",
+    "choice4": "Over the entrance to the secret passageway to the Shrieking Shack",
+    "answer": 4
+  },
+  {
+    "question": "Why was the Whomping Willow planted?",
+    "choice1": "So Remus Lupin could transform safely in the Shrieking Shack every month",
+    "choice2": "Professor Sprout wanted a challenging plant for her seventh-years to care for",
+    "choice3": "To keep intruders out of the Hogwarts grounds",
+    "choice4": "So nobody could enter the Shrieking Shack as it was haunted",
+    "answer": 1
+  },
+  {
+    "question": "Which Ministry of Magic official was killed at the edge of the Forbidden Forest?",
+    "choice1": "Ludo Bagman",
+    "choice2": "Barty Crouch",
+    "choice3": "Rufus Scrimgeour",
+    "choice4": "Albert Runcorn",
+    "answer": 2
+  },
+  {
+    "question": "During the second task of the Triwizard tournament, what did Harry not see in the lake?",
+    "choice1": "Merpeople",
+    "choice2": "Moaning Myrtle",
+    "choice3": "Kappa",
+    "choice4": "Grindylow",
+    "answer": 3
+  },
+  {
+    "question": "After an altercation with Malfoy on the Quidditch pitch, what did Ron end up belching?",
+    "choice1": "Snails",
+    "choice2": "Frogs",
+    "choice3": "Beetles",
+    "choice4": "Slugs",
+    "answer": 4
   }
 ]
