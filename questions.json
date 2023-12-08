@@ -1238,5 +1238,69 @@
     "choice3": "Beetles",
     "choice4": "Slugs",
     "answer": 4
+  },
+  {
+    "question": "How many attempts did it take Charlie Weasley to pass his Apparition test?",
+    "choice1": "2",
+    "choice2": "13",
+    "choice3": "1",
+    "choice4": "7",
+    "answer": 1
+  },
+  {
+    "question": "On what date is the Battle of Hogwarts commemorated?",
+    "choice1": "9th July",
+    "choice2": "2nd May",
+    "choice3": "1st June",
+    "choice4": "30th April",
+    "answer": 2
+  },
+  {
+    "question": "Which of these Weasleys did not Apparate to the Quidditch World Cup?",
+    "choice1": "Charlie",
+    "choice2": "Bill",
+    "choice3": "Arthur",
+    "choice4": "Percy",
+    "answer": 3
+  },
+  {
+    "question": "Which village did Harry and Dumbledore Apparate to when paying a visit to Horace Slughorn?",
+    "choice1": "Upper Flagley",
+    "choice2": "Little Hangleton",
+    "choice3": "Mould-on-the-Wold",
+    "choice4": "Budleigh Babberton",
+    "answer": 4
+  },
+  {
+    "question": "Why did Charlie Weasley fail his Apparition test?",
+    "choice1": "He Apparated five miles south of his destination and landed on an old lady doing her shopping",
+    "choice2": "He Apparated and landed on top of the examiner",
+    "choice3": "He Apparated to Albania accidentally and had to be flown back to Hogwarts",
+    "choice4": "He Apparated thirty miles west of his destination and landed in a bog",
+    "answer": 1
+  },
+  {
+    "question": "Why did Ron fail his first Apparition test?",
+    "choice1": "He left his left leg behind",
+    "choice2": "He left half an eyebrow behind",
+    "choice3": "He left a couple of fingernails behind",
+    "choice4": "He failed to Apparate at all",
+    "answer": 2
+  },
+  {
+    "question": "On the day of their Apparition exam, what Ministry of Magic leaflet were Ron and Hermione reading in preparation?",
+    "choice1": "Every Single Way to Fail Your Apparition Exam",
+    "choice2": "Apparition for Dummies",
+    "choice3": "Common Apparition Mistakes and How to Avoid Them",
+    "choice4": "Fifty Tips to Avoid Being Splinched",
+    "answer": 3
+  },
+  {
+    "question": "What was the name of Harry, Ron and Hermione's Ministry Apparition Instructor?",
+    "choice1": "Mafalda Hopkirk",
+    "choice2": "Reg Cattermole",
+    "choice3": "Bob Ogden",
+    "choice4": "Wilkie Twycross",
+    "answer": 4
   }
 ]
