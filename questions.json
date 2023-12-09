@@ -1302,5 +1302,85 @@
     "choice3": "Bob Ogden",
     "choice4": "Wilkie Twycross",
     "answer": 4
+  },
+  {
+    "question": "In Prisoner of Azkaban, what happened when Draco called Buckbeak the Hippogriff an 'ugly great brute'?",
+    "choice1": "Buckbeak let out his wings and flew away",
+    "choice2": "The whole herd of Hippogriffs charged at Draco",
+    "choice3": "Buckbeak attacked Draco",
+    "choice4": "Buckbeak galloped off into the Forbidden Forest",
+    "answer": 3
+  },
+  {
+    "question": "In Chamber of Secrets, what happened after Draco cast the Tarantallegra spell on Harry during Duelling Club?",
+    "choice1": "Harry stumbled and fell to the floor",
+    "choice2": "Harry inadvertently cast a spell that sent a snake spinning out to attack Draco",
+    "choice3": "Harry burst out laughing and could barely move",
+    "choice4": "Harry's legs began to jerk around out of his control in a kind of quick-step",
+    "answer": 4
+  },
+  {
+    "question": "What happened after Draco noticed Ron in the Hogwarts Express carriage with Harry in Philosopher's Stone?",
+    "choice1": "Draco said to Ron: 'Think my name's funny do you? No need to ask who you are...'",
+    "choice2": "Draco sat down next to Ron",
+    "choice3": "Ron pointed his wand at Draco",
+    "choice4": "Harry asked Draco to join them",
+    "answer": 1
+  },
+  {
+    "question": "What happened when Draco asked his father to buy him the Hand of Glory in Borgin and Burkes in Chamber of Secrets?",
+    "choice1": "Burke appeared from behind the counter and said it was not for sale",
+    "choice2": "Borgin told Draco's father that his son 'has fine taste'",
+    "choice3": "Lucius picked up the Hand of Glory to inspect it and dropped it",
+    "choice4": "Lucius asked Borgin to wrap up the item and add it to his bill",
+    "answer": 2
+  },
+  {
+    "question": "In Philosopher's Stone, what happened after Draco noticed Neville's Remembrall on the grass during their first flying lesson?",
+    "choice1": "He squashed it flat with his foot",
+    "choice2": "He picked it up and threw it to Crabbe",
+    "choice3": "He picked it up and flew off to hide it up a tree",
+    "choice4": "He kicked it like a football up towards the Quidditch nets",
+    "answer": 3
+  },
+  {
+    "question": "What happened after Draco attempted to attack Harry when his back was turned, in Goblet of Fire?",
+    "choice1": "Ludo Bagman walked in at that moment and caused a distraction",
+    "choice2": "Ron charged at Draco and knocked him to the ground",
+    "choice3": "Harry ducked and Draco's spell hit Hermione in the face",
+    "choice4": "Mad Eye Moody turned Draco into a ferret",
+    "answer": 4
+  },
+  {
+    "question": "In Prisoner of Azkaban, what happened after Draco called Hagrid pathetic?",
+    "choice1": "Hermione slapped Draco around the face",
+    "choice2": "Harry cast the Sectumsempra spell on Draco",
+    "choice3": "Ron punched Draco on the nose",
+    "choice4": "Harry put his foot out in front of Draco and caused him to trip",
+    "answer": 1
+  },
+  {
+    "question": "In Half Blood Prince, what happened after Draco's friends left him alone in their Hogwarts Express carriage, as Harry was lying in the luggage rack, invisible?",
+    "choice1": "Draco pulled the Invisibility Cloak off Harry and ran off with it",
+    "choice2": "Draco cast the spell Petrificus Totalus and Harry was instantly paralysed",
+    "choice3": "Draco cast the Cruciatus spell on Harry",
+    "choice4": "Harry jumped down from the luggage rack to confront Draco",
+    "answer": 2
+  },
+  {
+    "question": "In Half Blood Prince, what happened after Harry saw on the Marauder's Map that Draco was in a bathroom with Moaning Myrtle?",
+    "choice1": "Moaning Myrtle began wailing and the noise attracted the attention of Professor Snape",
+    "choice2": "Harry ran to tell Hermione and Ron",
+    "choice3": "Harry walked in and saw that Draco was crying",
+    "choice4": "Draco immediately walked out and saw Harry in the corridor",
+    "answer": 3
+  },
+  {
+    "question": "In Order of the Phoenix, what happened after Draco caught Harry, as he ran away from the Room of Requirement when Umbridge discovered Dumbledore's Army?",
+    "choice1": "Harry managed to get to his wand and Stupefy Draco",
+    "choice2": "Draco kicked Harry as he lay on the floor",
+    "choice3": "Draco took Harry's wand",
+    "choice4": "Umbridge awarded Draco fifty points for Slytherin",
+    "answer": 4
   }
 ]
