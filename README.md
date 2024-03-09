@@ -1,7 +1,7 @@
 # Harry Potter Quiz
 Small, but hopefully fun Harry Potter quiz with 150+ questions ⚡
 
-And, of course, you can play it [here](https://byc0jl3.neocities.org/harry-potter-quiz).
+You can play it [here](https://byc0jl3.neocities.org/harry-potter-quiz).
 
 ## Theme
 A user indicates their preference through an operating system setting (e.g. light or dark mode) or a user agent setting. More about [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme).
