@@ -1,5 +1,5 @@
 # Harry Potter Quiz
-Small, but hopefully fun Harry Potter quiz with 150+ questions ⚡
+Small, but hopefully fun Harry Potter quiz with ~150 questions ⚡
 
 You can play it [here](https://byc0jl3.neocities.org/harry-potter-quiz).
 
