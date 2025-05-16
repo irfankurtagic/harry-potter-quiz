@@ -1382,5 +1382,44 @@
     "choice3": "Draco took Harry's wand",
     "choice4": "Umbridge awarded Draco fifty points for Slytherin",
     "answer": 4
+  },{
+    "question": "What is the name of the goblin who helps Harry break into Gringotts in Deathly Hallows?",
+    "choice1": "Gornuk",
+    "choice2": "Bogrod",
+    "choice3": "Ragnok",
+    "choice4": "Griphook",
+    "answer": 4
+  },
+  {
+    "question": "Which spell did Harry use to defeat Voldemort during their final duel?",
+    "choice1": "Avada Kedavra",
+    "choice2": "Stupefy",
+    "choice3": "Sectumsempra",
+    "choice4": "Expelliarmus",
+    "answer": 4
+  },
+  {
+    "question": "Who destroyed the final Horcrux, Nagini?",
+    "choice1": "Harry Potter",
+    "choice2": "Neville Longbottom",
+    "choice3": "Ron Weasley",
+    "choice4": "Hermione Granger",
+    "answer": 2
+  },
+  {
+    "question": "Which of the Deathly Hallows does Harry possess first?",
+    "choice1": "The Elder Wand",
+    "choice2": "The Invisibility Cloak",
+    "choice3": "The Resurrection Stone",
+    "choice4": "The Marauder's Map",
+    "answer": 2
+  },
+  {
+    "question": "What subject does Professor McGonagall teach at Hogwarts?",
+    "choice1": "Charms",
+    "choice2": "Potions",
+    "choice3": "Transfiguration",
+    "choice4": "Herbology",
+    "answer": 3
   }
 ]
