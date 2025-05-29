@@ -162,8 +162,6 @@ input::placeholder {
 
 
 @font-face {
-  font-family: 'Berkeley Oldstyle Book';
-  src: url(/Berkeley-Oldstyle-Book.otf);
   font-family: 'Ubuntu';
   src: url(/Ubuntu-Regular.ttf);
 }
