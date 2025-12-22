@@ -1421,5 +1421,252 @@
     "choice3": "Transfiguration",
     "choice4": "Herbology",
     "answer": 3
+  },
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "question": "What spell does Hermione use to fix Harry's glasses in Philosopher's Stone?",
+    "choice1": "Reparo",
+    "choice2": "Oculus Reparo",
+    "choice3": "Finite",
+    "choice4": "Lumos",
+    "answer": 2
+  },
+  {
+    "question": "What position does Harry play on the Gryffindor Quidditch team?",
+    "choice1": "Chaser",
+    "choice2": "Beater",
+    "choice3": "Keeper",
+    "choice4": "Seeker",
+    "answer": 4
+  },
+  {
+    "question": "What creature guards the entrance to the Ravenclaw common room?",
+    "choice1": "A gargoyle",
+    "choice2": "A bronze eagle",
+    "choice3": "A sphinx",
+    "choice4": "A raven",
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the spell used to unlock doors?",
+    "choice1": "Alohomora",
+    "choice2": "Colloportus",
+    "choice3": "Expelliarmus",
+    "choice4": "Revelio",
+    "answer": 1
+  },
+  {
+    "question": "Who teaches Potions before Professor Slughorn?",
+    "choice1": "Gilderoy Lockhart",
+    "choice2": "Horace Slughorn",
+    "choice3": "Severus Snape",
+    "choice4": "Remus Lupin",
+    "answer": 3
+  },
+  {
+    "question": "What magical creature pulls the Hogwarts carriages?",
+    "choice1": "Hippogriffs",
+    "choice2": "Invisible horses",
+    "choice3": "Thestrals",
+    "choice4": "Abraxans",
+    "answer": 3
+  },
+  {
+    "question": "Who kills Nagini in the Battle of Hogwarts?",
+    "choice1": "Harry Potter",
+    "choice2": "Neville Longbottom",
+    "choice3": "Ron Weasley",
+    "choice4": "Hermione Granger",
+    "answer": 2
+  },
+  {
+    "question": "What form does Harry's Patronus take?",
+    "choice1": "A wolf",
+    "choice2": "A stag",
+    "choice3": "A horse",
+    "choice4": "An eagle",
+    "answer": 2
+  },
+  {
+    "question": "What is the name of Hagrid's giant half-brother?",
+    "choice1": "Grawp",
+    "choice2": "Karkus",
+    "choice3": "Magorian",
+    "choice4": "Brutus",
+    "answer": 1
+  },
+  {
+    "question": "Which spell is used to conjure a Patronus?",
+    "choice1": "Expecto Patronum",
+    "choice2": "Protego",
+    "choice3": "Stupefy",
+    "choice4": "Riddikulus",
+    "answer": 1
+  },
+  {
+    "question": "Who destroys the Hufflepuff cup Horcrux?",
+    "choice1": "Harry Potter",
+    "choice2": "Ron Weasley",
+    "choice3": "Hermione Granger",
+    "choice4": "Neville Longbottom",
+    "answer": 3
+  },
+  {
+    "question": "What is the name of Voldemort's snake?",
+    "choice1": "Nagini",
+    "choice2": "Basil",
+    "choice3": "Slythra",
+    "choice4": "Nerissa",
+    "answer": 1
+  },
+  {
+    "question": "Which house does Luna Lovegood belong to?",
+    "choice1": "Gryffindor",
+    "choice2": "Hufflepuff",
+    "choice3": "Ravenclaw",
+    "choice4": "Slytherin",
+    "answer": 3
+  },
+  {
+    "question": "What spell does Harry use most frequently in duels?",
+    "choice1": "Stupefy",
+    "choice2": "Expelliarmus",
+    "choice3": "Protego",
+    "choice4": "Sectumsempra",
+    "answer": 2
+  },
+  {
+    "question": "Who was the headmaster of Hogwarts before Dumbledore?",
+    "choice1": "Phineas Nigellus Black",
+    "choice2": "Armando Dippet",
+    "choice3": "Dilys Derwent",
+    "choice4": "Dexter Fortescue",
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the Weasleys' house?",
+    "choice1": "Shell Cottage",
+    "choice2": "Ottery House",
+    "choice3": "The Burrow",
+    "choice4": "Foxglove Farm",
+    "answer": 3
+  },
+  {
+    "question": "What magical object shows memories when thoughts are placed inside it?",
+    "choice1": "Time-Turner",
+    "choice2": "Pensieve",
+    "choice3": "Foe-Glass",
+    "choice4": "Sneakoscope",
+    "answer": 2
+  },
+  {
+    "question": "Who gives Harry the Invisibility Cloak?",
+    "choice1": "James Potter",
+    "choice2": "Albus Dumbledore",
+    "choice3": "Sirius Black",
+    "choice4": "Minerva McGonagall",
+    "answer": 2
+  },
+  {
+    "question": "What vault number holds the Philosopher's Stone?",
+    "choice1": "Vault 687",
+    "choice2": "Vault 713",
+    "choice3": "Vault 394",
+    "choice4": "Vault 619",
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the spell that disarms an opponent?",
+    "choice1": "Stupefy",
+    "choice2": "Protego",
+    "choice3": "Expelliarmus",
+    "choice4": "Reducto",
+    "answer": 3
+  },
+  {
+    "question": "Which teacher turns into a cat?",
+    "choice1": "Pomona Sprout",
+    "choice2": "Minerva McGonagall",
+    "choice3": "Sybill Trelawney",
+    "choice4": "Dolores Umbridge",
+    "answer": 2
+  },
+  {
+    "question": "Who destroys the diadem of Ravenclaw?",
+    "choice1": "Harry Potter",
+    "choice2": "Hermione Granger",
+    "choice3": "Ron Weasley",
+    "choice4": "Vincent Crabbe",
+    "answer": 4
+  },
+  {
+    "question": "What does the spell 'Sectumsempra' do?",
+    "choice1": "Freezes the target",
+    "choice2": "Causes deep slashing wounds",
+    "choice3": "Knocks the target unconscious",
+    "choice4": "Paralyzes the target",
+    "answer": 2
+  },
+  {
+    "question": "What animal is on the Ravenclaw crest?",
+    "choice1": "Raven",
+    "choice2": "Eagle",
+    "choice3": "Falcon",
+    "choice4": "Hawk",
+    "answer": 2
+  },
+  {
+    "question": "Who kills Bellatrix Lestrange?",
+    "choice1": "Harry Potter",
+    "choice2": "Ginny Weasley",
+    "choice3": "Molly Weasley",
+    "choice4": "Neville Longbottom",
+    "answer": 3
   }
 ]
