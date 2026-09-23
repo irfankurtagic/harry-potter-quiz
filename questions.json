@@ -1668,5 +1668,489 @@
     "choice3": "Molly Weasley",
     "choice4": "Neville Longbottom",
     "answer": 3
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "question": "What is the name of Hermione Granger's cat?",
+    "choice1": "Fang",
+    "choice2": "Trevor",
+    "choice3": "Scabbers",
+    "choice4": "Crookshanks",
+    "answer": 4
+  },
+  {
+    "question": "What is the name of Ron Weasley's pet rat?",
+    "choice1": "Aragog",
+    "choice2": "Crookshanks",
+    "choice3": "Scabbers",
+    "choice4": "Trevor",
+    "answer": 3
+  },
+  {
+    "question": "What is the name of Neville Longbottom's pet toad?",
+    "choice1": "Fang",
+    "choice2": "Errol",
+    "choice3": "Norberta",
+    "choice4": "Trevor",
+    "answer": 4
+  },
+  {
+    "question": "What is the name of the three-headed dog guarding the trapdoor beneath Hogwarts?",
+    "choice1": "Fang",
+    "choice2": "Grawp",
+    "choice3": "Buckbeak",
+    "choice4": "Fluffy",
+    "answer": 4
+  },
+  {
+    "question": "Who are the four founders of Hogwarts?",
+    "choice1": "Dumbledore, McGonagall, Snape and Hagrid",
+    "choice2": "Harry, Ron, Hermione and Neville",
+    "choice3": "Gryffindor, Hufflepuff, Ravenclaw and Slytherin",
+    "choice4": "Merlin, Morgana, Dumbledore and Grindelwald",
+    "answer": 3
+  },
+  {
+    "question": "What is the first password Harry uses to enter the Gryffindor common room?",
+    "choice1": "Caput Draconis",
+    "choice2": "Mimbulus mimbletonia",
+    "choice3": "Alohomora",
+    "choice4": "Fortuna Major",
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the Hogwarts school nurse?",
+    "choice1": "Madam Hooch",
+    "choice2": "Madam Maxime",
+    "choice3": "Madam Rosmerta",
+    "choice4": "Madam Pomfrey",
+    "answer": 4
+  },
+  {
+    "question": "What is the name of the bartender at the Leaky Cauldron?",
+    "choice1": "Dennis",
+    "choice2": "Stan",
+    "choice3": "Tom",
+    "choice4": "Ernie",
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the conductor of the Knight Bus?",
+    "choice1": "Stan Shunpike",
+    "choice2": "Dedalus Diggle",
+    "choice3": "Tom",
+    "choice4": "Ernie Prang",
+    "answer": 4
+  },
+  {
+    "question": "What is the name of Hagrid's giant spider?",
+    "choice1": "Shelob",
+    "choice2": "Mosag",
+    "choice3": "Aragog",
+    "choice4": "Mafalda",
+    "answer": 3
+  },
+  {
+    "question": "What is the name of Aragog's wife?",
+    "choice1": "Nagini",
+    "choice2": "Merope",
+    "choice3": "Alecto",
+    "choice4": "Mosag",
+    "answer": 4
+  },
+  {
+    "question": "Which professor teaches Divination at Hogwarts?",
+    "choice1": "Sybill Trelawney",
+    "choice2": "Pomona Sprout",
+    "choice3": "Filius Flitwick",
+    "choice4": "Rolanda Hooch",
+    "answer": 1
+  },
+  {
+    "question": "Which professor teaches Charms at Hogwarts?",
+    "choice1": "Filius Flitwick",
+    "choice2": "Horace Slughorn",
+    "choice3": "Remus Lupin",
+    "choice4": "Quirinus Quirrell",
+    "answer": 1
+  },
+  {
+    "question": "Which professor teaches Herbology at Hogwarts?",
+    "choice1": "Pomona Sprout",
+    "choice2": "Sybill Trelawney",
+    "choice3": "Septima Vector",
+    "choice4": "Aurora Sinistra",
+    "answer": 1
+  },
+  {
+    "question": "Which professor teaches Astronomy at Hogwarts?",
+    "choice1": "Septima Vector",
+    "choice2": "Filius Flitwick",
+    "choice3": "Pomona Sprout",
+    "choice4": "Aurora Sinistra",
+    "answer": 4
+  },
+  {
+    "question": "What subject does Professor Vector teach?",
+    "choice1": "Arithmancy",
+    "choice2": "Ancient Runes",
+    "choice3": "Astronomy",
+    "choice4": "Divination",
+    "answer": 1
+  },
+  {
+    "question": "What subject does Professor Binns teach?",
+    "choice1": "Ancient Runes",
+    "choice2": "Muggle Studies",
+    "choice3": "Arithmancy",
+    "choice4": "History of Magic",
+    "answer": 4
+  },
+  {
+    "question": "What is unusual about Professor Binns?",
+    "choice1": "He is a vampire",
+    "choice2": "He is a Squib",
+    "choice3": "He is a werewolf",
+    "choice4": "He is a ghost",
+    "answer": 4
+  },
+  {
+    "question": "What is the name of Dumbledore's phoenix?",
+    "choice1": "Fawkes",
+    "choice2": "Fang",
+    "choice3": "Fluffy",
+    "choice4": "Fox",
+    "answer": 1
+  },
+  {
+    "question": "What creature is Fawkes?",
+    "choice1": "Hippogriff",
+    "choice2": "Basilisk",
+    "choice3": "Thestral",
+    "choice4": "Phoenix",
+    "answer": 4
+  },
+  {
+    "question": "What is the name of Dumbledore's brother?",
+    "choice1": "Amos",
+    "choice2": "Abraxas",
+    "choice3": "Alastor",
+    "choice4": "Aberforth",
+    "answer": 4
+  },
+  {
+    "question": "What is the name of Dumbledore's sister?",
+    "choice1": "Augusta",
+    "choice2": "Andromeda",
+    "choice3": "Amelia",
+    "choice4": "Ariana",
+    "answer": 4
+  },
+  {
+    "question": "What is the name of Dumbledore's mother?",
+    "choice1": "Walburga",
+    "choice2": "Bathilda",
+    "choice3": "Merope",
+    "choice4": "Kendra",
+    "answer": 4
+  },
+  {
+    "question": "What was the name of Voldemort's mother?",
+    "choice1": "Kendra Gaunt",
+    "choice2": "Ariana Gaunt",
+    "choice3": "Walburga Black",
+    "choice4": "Merope Gaunt",
+    "answer": 4
+  },
+  {
+    "question": "What is Voldemort's full birth name?",
+    "choice1": "Tom Marvolo Riddle",
+    "choice2": "Thomas Morfin Riddle",
+    "choice3": "Tom Morfin Gaunt",
+    "choice4": "Thomas Marvolo Gaunt",
+    "answer": 1
+  },
+  {
+    "question": "Which Hogwarts house did Tom Riddle belong to?",
+    "choice1": "Gryffindor",
+    "choice2": "Hufflepuff",
+    "choice3": "Ravenclaw",
+    "choice4": "Slytherin",
+    "answer": 4
+  },
+  {
+    "question": "What was the name of Tom Riddle's father?",
+    "choice1": "Marvolo Riddle",
+    "choice2": "Tom Riddle Sr.",
+    "choice3": "Morfin Gaunt",
+    "choice4": "Mundungus Riddle",
+    "answer": 2
+  },
+  {
+    "question": "Which object was the first Horcrux destroyed in the series?",
+    "choice1": "Marvolo Gaunt's Ring",
+    "choice2": "Tom Riddle's Diary",
+    "choice3": "Slytherin's Locket",
+    "choice4": "Hufflepuff's Cup",
+    "answer": 2
+  },
+  {
+    "question": "Who destroyed Tom Riddle's diary?",
+    "choice1": "Ron Weasley",
+    "choice2": "Harry Potter",
+    "choice3": "Hermione Granger",
+    "choice4": "Albus Dumbledore",
+    "answer": 2
+  },
+  {
+    "question": "Who destroyed the Slytherin locket Horcrux?",
+    "choice1": "Harry Potter",
+    "choice2": "Ron Weasley",
+    "choice3": "Neville Longbottom",
+    "choice4": "Hermione Granger",
+    "answer": 2
+  },
+  {
+    "question": "Who destroyed Marvolo Gaunt's ring?",
+    "choice1": "Harry Potter",
+    "choice2": "Ron Weasley",
+    "choice3": "Albus Dumbledore",
+    "choice4": "Severus Snape",
+    "answer": 3
+  },
+  {
+    "question": "Which object contained the Resurrection Stone?",
+    "choice1": "The Golden Snitch",
+    "choice2": "Marvolo Gaunt's Ring",
+    "choice3": "The Elder Wand",
+    "choice4": "Tom Riddle's Diary",
+    "answer": 1
+  },
+  {
+    "question": "Which three brothers are associated with the legend of the Deathly Hallows?",
+    "choice1": "The Peverell brothers",
+    "choice2": "The Gaunt brothers",
+    "choice3": "The Prewett brothers",
+    "choice4": "The Lestrange brothers",
+    "answer": 1
+  },
+  {
+    "question": "What was the name of the Peverell brother who possessed the Elder Wand?",
+    "choice1": "Antioch",
+    "choice2": "Cadmus",
+    "choice3": "Ignotus",
+    "choice4": "Percival",
+    "answer": 1
+  },
+  {
+    "question": "What was the name of the Peverell brother who possessed the Resurrection Stone?",
+    "choice1": "Antioch",
+    "choice2": "Cadmus",
+    "choice3": "Ignotus",
+    "choice4": "Marvolo",
+    "answer": 2
+  },
+  {
+    "question": "What was the name of the Peverell brother who possessed the Invisibility Cloak?",
+    "choice1": "Antioch",
+    "choice2": "Cadmus",
+    "choice3": "Ignotus",
+    "choice4": "Godric",
+    "answer": 3
+  },
+  {
+    "question": "What is the Hogwarts motto?",
+    "choice1": "Magic Is Might",
+    "choice2": "Draco Dormiens Nunquam Titillandus",
+    "choice3": "Fortuna Major",
+    "choice4": "Expecto Patronum",
+    "answer": 2
+  },
+  {
+    "question": "What does the Hogwarts motto 'Draco Dormiens Nunquam Titillandus' mean?",
+    "choice1": "Never tickle a sleeping dragon",
+    "choice2": "Magic makes us strong",
+    "choice3": "Knowledge conquers fear",
+    "choice4": "Always protect the innocent",
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the Hufflepuff house ghost?",
+    "choice1": "The Bloody Baron",
+    "choice2": "Nearly Headless Nick",
+    "choice3": "The Fat Friar",
+    "choice4": "The Grey Lady",
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the Ravenclaw house ghost?",
+    "choice1": "The Grey Lady",
+    "choice2": "The Fat Friar",
+    "choice3": "The Bloody Baron",
+    "choice4": "Moaning Myrtle",
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the Slytherin house ghost?",
+    "choice1": "Nearly Headless Nick",
+    "choice2": "The Bloody Baron",
+    "choice3": "The Grey Lady",
+    "choice4": "The Fat Friar",
+    "answer": 2
+  },
+  {
+    "question": "What is the real name of the Grey Lady?",
+    "choice1": "Helena Ravenclaw",
+    "choice2": "Helga Ravenclaw",
+    "choice3": "Rowena Ravenclaw",
+    "choice4": "Honoria Ravenclaw",
+    "answer": 1
+  },
+  {
+    "question": "Who was Helena Ravenclaw's mother?",
+    "choice1": "Helga Ravenclaw",
+    "choice2": "Rowena Ravenclaw",
+    "choice3": "Minerva Ravenclaw",
+    "choice4": "Bathilda Ravenclaw",
+    "answer": 2
+  },
+  {
+    "question": "Which Hogwarts founder created the Chamber of Secrets?",
+    "choice1": "Godric Gryffindor",
+    "choice2": "Helga Hufflepuff",
+    "choice3": "Rowena Ravenclaw",
+    "choice4": "Salazar Slytherin",
+    "answer": 4
+  },
+  {
+    "question": "What creature lives inside the Chamber of Secrets?",
+    "choice1": "A basilisk",
+    "choice2": "An acromantula",
+    "choice3": "A dragon",
+    "choice4": "A manticore",
+    "answer": 1
+  },
+  {
+    "question": "What language can Harry speak that allows him to communicate with snakes?",
+    "choice1": "Parseltongue",
+    "choice2": "Gobbledegook",
+    "choice3": "Mermish",
+    "choice4": "Runic",
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the magical object that produces light from a wand?",
+    "choice1": "Deluminator",
+    "choice2": "Pensieve",
+    "choice3": "Foe-Glass",
+    "choice4": "Remembrall",
+    "answer": 1
+  },
+  {
+    "question": "What does a Remembrall tell its owner?",
+    "choice1": "Whether someone is lying",
+    "choice2": "Whether they have forgotten something",
+    "choice3": "Whether danger is nearby",
+    "choice4": "Whether a spell has been cast",
+    "answer": 2
+  },
+  {
+    "question": "What potion is known for giving the drinker exceptionally good luck?",
+    "choice1": "Amortentia",
+    "choice2": "Veritaserum",
+    "choice3": "Felix Felicis",
+    "choice4": "Polyjuice Potion",
+    "answer": 3
+  },
+  {
+    "question": "What is the strongest love potion in the wizarding world?",
+    "choice1": "Amortentia",
+    "choice2": "Felix Felicis",
+    "choice3": "Veritaserum",
+    "choice4": "Draught of Living Death",
+    "answer": 1
+  },
+  {
+    "question": "What magical substance is used as an antidote to many poisons and saves Ron's life?",
+    "choice1": "Mandrake juice",
+    "choice2": "Bezoar",
+    "choice3": "Unicorn blood",
+    "choice4": "Phoenix tears",
+    "answer": 2
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
 ]
