@@ -9,7 +9,9 @@ Test your knowledge of the Wizarding World with **250+ questions**, track your s
 **[Play the Harry Potter Quiz](https://irfankurtagic.github.io/harry-potter-quiz/)**
 
 
-## 📸 Theme
+## 🌙 Theme
+
+The website automatically follows the user's system preference for light or dark mode using CSS prefers-color-scheme.
 
 Dark             |  Light
 :-------------------------:|:-------------------------:
