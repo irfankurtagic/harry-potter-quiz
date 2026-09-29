@@ -8,6 +8,7 @@ Test your knowledge of the Wizarding World with **250+ questions**, track your s
 
 **Play the [Harry Potter Quiz](https://irfankurtagic.github.io/harry-potter-quiz/).**
 
+
 ## 📸 Theme
 
 A user indicates their preference through an operating system setting (e.g. light or dark mode) or a user agent setting. More about [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme).
@@ -18,6 +19,7 @@ Dark             |  Light
 
 ###
 Image by <a href="https://pixabay.com/users/gdj-1086657">Gordon Johnson</a> from <a href="https://pixabay.com">Pixabay</a>.
+
 
 ## ✨ Features
 
@@ -38,8 +40,6 @@ Image by <a href="https://pixabay.com/users/gdj-1086657">Gordon Johnson</a> from
 * JavaScript
 * JSON
 * GitHub Pages
-
-
 
 
 ## 📁 Project structure
