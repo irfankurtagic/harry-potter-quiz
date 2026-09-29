@@ -11,7 +11,7 @@ Test your knowledge of the Wizarding World with **250+ questions**, track your s
 
 ## 🌙 Theme
 
-The website automatically follows the user's system preference for light or dark mode using CSS prefers-color-scheme.
+The website automatically follows the user's system preference for light or dark mode using CSS `prefers-color-scheme`.
 
 Dark             |  Light
 :-------------------------:|:-------------------------:
