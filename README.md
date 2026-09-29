@@ -4,14 +4,12 @@ An interactive Harry Potter trivia game built with vanilla HTML, CSS and JavaScr
 
 Test your knowledge of the Wizarding World with **250+ questions**, track your score, and compare your results on the highscores page.
 
-## 🎮 Play
+## 🎮 Live Demo
 
-**Play the [Harry Potter Quiz](https://irfankurtagic.github.io/harry-potter-quiz/).**
+**[Play the Harry Potter Quiz](https://irfankurtagic.github.io/harry-potter-quiz/)**
 
 
 ## 📸 Theme
-
-A user indicates their preference through an operating system setting (e.g. light or dark mode) or a user agent setting. More about [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme).
 
 Dark             |  Light
 :-------------------------:|:-------------------------:
