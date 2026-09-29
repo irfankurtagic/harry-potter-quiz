@@ -1,6 +1,7 @@
 # Harry Potter Quiz
-Harry Potter quiz with ~250 questions ⚡
+Interactive Harry Potter quiz built with vanilla JavaScript, featuring a 200+ question JSON dataset, scoring, highscores and responsive UI  ⚡
 
+## Live Demo
 You can play it [here](https://byc0jl3.neocities.org/harry-potter-quiz).
 
 ## Theme
