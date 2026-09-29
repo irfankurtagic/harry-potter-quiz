@@ -4,6 +4,21 @@ An interactive Harry Potter trivia game built with vanilla HTML, CSS and JavaScr
 
 Test your knowledge of the Wizarding World with **250+ questions**, track your score, and compare your results on the highscores page.
 
+## 🎮 Play
+
+**Play the [Harry Potter Quiz](https://irfankurtagic.github.io/harry-potter-quiz/).**
+
+## 📸 Theme
+
+A user indicates their preference through an operating system setting (e.g. light or dark mode) or a user agent setting. More about [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme).
+
+Dark             |  Light
+:-------------------------:|:-------------------------:
+![image](https://github.com/irfankurtagic/harry-potter-quiz/assets/72319855/e612d501-d366-4f74-b26a-c0d8afdd687c)  |  ![image](https://github.com/irfankurtagic/harry-potter-quiz/assets/72319855/565ed712-f8d0-4229-abe3-52337b63fab8)
+
+###
+Image by <a href="https://pixabay.com/users/gdj-1086657">Gordon Johnson</a> from <a href="https://pixabay.com">Pixabay</a>.
+
 ## ✨ Features
 
 * 🧙 250+ Harry Potter trivia questions
@@ -24,20 +39,7 @@ Test your knowledge of the Wizarding World with **250+ questions**, track your s
 * JSON
 * GitHub Pages
 
-## 🎮 Play
 
-**Play the [Harry Potter Quiz](https://irfankurtagic.github.io/harry-potter-quiz/).**
-
-## 📸 Theme
-
-A user indicates their preference through an operating system setting (e.g. light or dark mode) or a user agent setting. More about [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme).
-
-Dark             |  Light
-:-------------------------:|:-------------------------:
-![image](https://github.com/irfankurtagic/harry-potter-quiz/assets/72319855/e612d501-d366-4f74-b26a-c0d8afdd687c)  |  ![image](https://github.com/irfankurtagic/harry-potter-quiz/assets/72319855/565ed712-f8d0-4229-abe3-52337b63fab8)
-
-###
-Image by <a href="https://pixabay.com/users/gdj-1086657">Gordon Johnson</a> from <a href="https://pixabay.com">Pixabay</a>.
 
 
 ## 📁 Project structure
@@ -58,4 +60,4 @@ Image by <a href="https://pixabay.com/users/gdj-1086657">Gordon Johnson</a> from
 
 ## 📄 License
 
-This project is licensed under the GPL-2.0 License.
+This project is licensed under the [GNU General Public License v2.0](LICENSE).
