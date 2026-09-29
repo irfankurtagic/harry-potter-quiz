@@ -1,10 +1,35 @@
-# Harry Potter Quiz
-Interactive Harry Potter quiz built with vanilla JavaScript, featuring a 200+ question JSON dataset, scoring, highscores and responsive UI  ⚡
+# Harry Potter Quiz ⚡
 
-## Live Demo
-You can play it [here](https://byc0jl3.neocities.org/harry-potter-quiz).
+An interactive Harry Potter trivia game built with vanilla HTML, CSS and JavaScript.
 
-## Theme
+Test your knowledge of the Wizarding World with **250+ questions**, track your score, and compare your results on the highscores page.
+
+## ✨ Features
+
+* 🧙 250+ Harry Potter trivia questions
+* 🎯 Randomized questions
+* 📝 Multiple-choice answers
+* 📊 Score tracking
+* 🏆 Highscores
+* 🔄 Restartable quiz
+* 🌙 Automatic light/dark theme support
+* 📱 Responsive interface
+* ⚡ No frameworks or dependencies required
+
+## 🛠️ Technologies
+
+* HTML5
+* CSS3
+* JavaScript
+* JSON
+* GitHub Pages
+
+## 🎮 Play
+
+**Play the [Harry Potter Quiz](https://irfankurtagic.github.io/harry-potter-quiz/).**
+
+## 📸 Theme
+
 A user indicates their preference through an operating system setting (e.g. light or dark mode) or a user agent setting. More about [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme).
 
 Dark             |  Light
@@ -13,3 +38,24 @@ Dark             |  Light
 
 ###
 Image by <a href="https://pixabay.com/users/gdj-1086657">Gordon Johnson</a> from <a href="https://pixabay.com">Pixabay</a>.
+
+
+## 📁 Project structure
+
+```text
+├── index.html
+├── game.html
+├── game.js
+├── game.css
+├── end.html
+├── end.js
+├── highscores.html
+├── highscores.js
+├── highscores.css
+├── questions.json
+└── ...
+```
+
+## 📄 License
+
+This project is licensed under the GPL-2.0 License.
